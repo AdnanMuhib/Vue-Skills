@@ -8,12 +8,12 @@ Vue.use(Router)
 export default new Router ({
     routes : [
         {
-            path:'/Vue-Skills/',
+            path:'/',
             name:'Skills',
             component:Skills
         },
         {
-            path:'/Vue-Skills/about/:name',
+            path:'/about/:name',
             name:'About',
             component:About
         }
