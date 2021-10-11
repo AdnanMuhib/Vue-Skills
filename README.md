@@ -1,4 +1,5 @@
 # vue-skills
+This is a simple app to getting started with vue.js
 
 ## Project setup
 ```
