@@ -19,6 +19,9 @@ This is a simple app to get started with vue.js
 ## Customize configuration
 See [configuration reference](https://cli.vuejs.org/config/)
 
+## UI Look
+![alt text](image.png)
+
 ## Contribute
 1. Add and commit changes to your branch
 2. Push local changes to origin
